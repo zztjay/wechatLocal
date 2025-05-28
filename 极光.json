@@ -1,0 +1,153 @@
+{
+	"LoginDataInfo": {
+		"Type": 0,
+		"UserName": "wxid_dorlowyv0xtd19",
+		"PassWord": "",
+		"NewPassWord": "extdevnewpwd_CiNBMWVMUGNLQU9oYUJuT0FrOEhiWDdlNDRAcXJ0aWNrZXRfMBJAYUNkYVdUSks2aXlrU01heW40a3EwMkNlZE9vcF9IM3NxbFI0N3hzaERlRldFWUF3N3dUNXoycm1RN05yNUoyYxoYZ1NlTlhnd01qN2lZTUtiQVlmM0tIUm1H",
+		"LoginData": "",
+		"Ticket": "",
+		"NewType": 0,
+		"Language": ""
+	},
+	"hostUrl": "",
+	"uuid": "b954c554-a11d-4332-b7eb-4e51fa5a339e",
+	"qrUuid": "Y4m7pBNWNXjFnAwAt2Ic",
+	"uin": 1626195010,
+	"wxid": "wxid_dorlowyv0xtd19",
+	"nickname": "极光",
+	"headurl": "http://wx.qlogo.cn/mmhead/ver_1/x2BKgnnQgo0Ip8VDdNZ5eoUM6JFOoDPsWbmMRneQ3iax5PnzQS9yoyqP78Qo42ibdpK1MylOpFffrfgbyETu8YsFe2LIpoSNHAlWoRBLw2PrLFL5GF9Z9ia4wTOtTZ0zUaia/0",
+	"cookie": "j8MYDQAAAABQ4Z29Xr4A",
+	"aeskey": "fGg9aDlAMVJzSTUqL0hFeg==",
+	"shorthost": "szshort.weixin.qq.com",
+	"longhost": "szlong.weixin.qq.com",
+	"longPort": "",
+	"ecpukey": "BGpIvvyNXpqcUI1a0bUHKN6l+q2BGIpqQPIdZcF8uzql3x8SHfZh9t+ErCTMoIRCiH+vFQ6sOSYn",
+	"ecprkey": "iFRAe37EtAZxbBr6WJJQzcX6n6RKJ6ekGFwFyg==",
+	"checksumkey": "4ZIzJE7uOwD4QV+dEFdB9w==",
+	"autoauthkey": "ChQIEBIQHRNY4Maj5RF5gQCW+woawxLCAgi8AhK8AgiHARKwAmZ80ydhNlY1CajJ2WTyMXnqSSvUDXa2K93rpAz6K7aOdRiVIHcdsvSJn54vKNAW7psAs8UoHu3ImITsJhw6PkD2dgOSGiWg71CnfkQLQxboW7//qYYaDoFQUEXaxdw24ZFoRGGYyJjQwf2K2pxIfDwEwWMRW2NZRPXUaM/uwF/y+VhLadd4Fj7d3JPV3Vr1gYec8iPgoLjYuVpTFjkH1zf3GVmQCKVPr6wBPlr3SRC759WmYDky9eyq9tUFi21P7pz9lU9aCSOrOGTqzS3fsmHsX8PRkkTCtj43BFym+Twh0NZJuMM0A24E6vo/Wk1oOqONhpV47yXoRiRZVX/pOjkUSUBhpy7EIsVbbLdzlE6tIttAwp4CTyWQbkykLUu6d2BxHwbj6DZShkcErve3MssYhM+c1QY=",
+	"synckey": "CC8SCAgBELqk/5gDEgQIZRAAEggIAhDdgvGKAxIECGYQABIECA0QABIFCMwBEAASCAgDENWj/5gDEgQIZxAAEggICxCZ/PCKAxIECG8QABIECAQQABIECGgQABIECAUQABIECGkQABIECAcQABIECGsQABIECAgQABIECGwQABIECAkQABIECG0QABIICBYQpaT/mAMSBAgGEAASBAh6EAASBAhqEAASBAgQEAASBAgREAASBAhyEAASCAgOELmj/5gDEgQIcBAAEgYIExDZ3gISBAgaEAASBQgbENcqEggIGBCIrqrBBhIICBcQiK6qwQYSCAgZEN2C8YoDEgQIChAAEgkIyQEQiK6qwQYSBQjNARAAEgkIygEQ1I+NwAYSCQjLARCC+qK5BhIFCM4BEGcSBQjPARAAEgQIFBAAEgQIFRAAEgkI6AcQ776pwQYSCQjpBxC226nBBhIJCNMPEJXSp8EG",
+	"syncHistorykey": null,
+	"favsynckey": "",
+	"snssynckey": null,
+	"hbaeskey": "XkjsMhUWQqep2swWFYYUoQ==",
+	"hbesKeyencrypted": "n+G6pTOzg7dWLMl/1QxdWCypR+mtTa5rhRlBqm64ntszUoOL/ZqvshdXZwSxIHPAe4tAFHkSpepUwJv0/BUo3J2CQ9CLWe6EW8MZRqbaHcYI33i5dBWHkSiuqm4xoDsdmSn30cLWEpYcqobLFOv/ORokbZY4xfnwF992ZYx/N7Y=",
+	"dnsinfo": null,
+	"snsdnsinfo": null,
+	"appdnsinfo": null,
+	"fakednsinfo": null,
+	"NetworkSect": null,
+	"DeviceInfo": {
+		"uuidone": "bad64a75-48e0-4d38-a2ad-a007a3eccf8e",
+		"uuidtwo": "ae53767f-51cc-46ee-8810-923c7b51378d",
+		"imei": "5be9d8e31484851c1b66a213c88ca5df",
+		"deviceid": "SenY4xSEhRwbZqITyIyl3w==",
+		"devicename": "iPad",
+		"timezone": "8.00",
+		"language": "zh_CN",
+		"devicebrand": "Apple",
+		"realcountry": "CN",
+		"iphonever": "iPad4,7",
+		"boudleid": "com.tencent.xin",
+		"ostype": "iPad iOS13.5",
+		"adsource": "60389420-4e4d-4464-9a3c-3f5aeded3443",
+		"ostypenumber": "13.5",
+		"corecount": 4,
+		"carriername": "(null)",
+		"softtypexml": "\u003csofttype\u003e\u003ck3\u003e13.5\u003c/k3\u003e\u003ck9\u003eiPad\u003c/k9\u003e\u003ck10\u003e4\u003c/k10\u003e\u003ck19\u003ebad64a75-48e0-4d38-a2ad-a007a3eccf8e\u003c/k19\u003e\u003ck20\u003eae53767f-51cc-46ee-8810-923c7b51378d\u003c/k20\u003e\u003ck22\u003e(null)\u003c/k22\u003e\u003ck24\u003eFB:30:E0:E6:70:D3/k24\u003ck33\u003e微信\u003c/k33\u003e\u003ck47\u003e1\u003c/k47\u003e\u003ck50\u003e0\u003c/k50\u003e\u003ck51\u003ecom.tencent.xin\u003c/k51\u003e\u003ck54\u003eiPad4,7\u003c/k54\u003e\u003ck61\u003e1\u003c/k61\u003e\u003c/softtype\u003e",
+		"clientcheckdataxml": "\u003cclientCheckData\u003e\u003cfileSafeAPI\u003eyes\u003c/fileSafeAPI\u003e\u003cdylibSafeAPI\u003eyes\u003c/dylibSafeAPI\u003e\u003cOSVersion\u003e13.5\u003c/OSVersion\u003e\u003ctable\u003eiPad\u003c/table\u003e\u003ccoreCount\u003e4\u003c/coreCount\u003e\u003cvendorID\u003e9f616472-dc05-4080-8ed2-fedb6f25ce37\u003c/vendorID\u003e\u003cadID\u003e60389420-4e4d-4464-9a3c-3f5aeded3443\u003c/adID\u003e\u003cnetType\u003e1\u003c/netType\u003e\u003cisJailbreak\u003e0\u003c/isJailbreak\u003e\u003cbundleID\u003ecom.tencent.xin\u003c/bundleID\u003e\u003cdevice\u003eiPad4,7\u003c/device\u003e\u003cdisplayName\u003e微信\u003c/displayName\u003e\u003cversion\u003e402658849\u003c/version\u003e\u003cplistVersion\u003e402658849\u003c/plistVersion\u003e\u003cUSBState\u003e2\u003c/USBState\u003e\u003cHasSIMCard\u003e2\u003c/HasSIMCard\u003e\u003clanguageNum\u003ezh_CN\u003c/languageNum\u003e\u003clocaleCountry\u003eCN\u003c/localeCountry\u003e\u003cisInCalling\u003e2\u003c/isInCalling\u003e\u003cweChatUUID\u003e/var/mobile/Containers/Data/Application/5d6ece62-aecf-4f9a-a737-eb7643abad1f/Documents\u003c/weChatUUID\u003e\u003cAppState\u003e0\u003c/AppState\u003e\u003cillegalFileList\u003e\u003c/illegalFileList\u003e\u003cencryptStatusOfMachO\u003e1\u003c/encryptStatusOfMachO\u003e\u003cmd5OfMachOHeader\u003ed05a80a94b6c2e3c31424403437b6e18\u003c/md5OfMachOHeader\u003e\u003cdylibInfo\u003e\u003ci\u003e\u003cs\u003e/var/containers/Bundle/Application/e1a5e018-af2a-4a80-aedc-75c70dce0af6/WeChat.app/WeChat\u003c/s\u003e\u003cu\u003e61ba4367-9565-4c8a-bf75-596c289f070c\u003c/u\u003e\u003c/i\u003e\u003ci\u003e\u003cs\u003e/private/var/containers/Bundle/Application/e1a5e018-af2a-4a80-aedc-75c70dce0af6/WeChat.app/Frameworks/andromeda.framework/andromeda\u003c/s\u003e\u003cu\u003e61ba4367-9565-4c8a-bf75-596c289f070c\u003c/u\u003e\u003c/i\u003e\u003ci\u003e\u003cs\u003e/private/var/containers/Bundle/Application/e1a5e018-af2a-4a80-aedc-75c70dce0af6/WeChat.app/Frameworks/mars.framework/mars\u003c/s\u003e\u003cu\u003e61ba4367-9565-4c8a-bf75-596c289f070c\u003c/u\u003e\u003c/i\u003e\u003ci\u003e\u003cs\u003e/private/var/containers/Bundle/Application/e1a5e018-af2a-4a80-aedc-75c70dce0af6/WeChat.app/Frameworks/marsbridgenetworkDylibInfo.framework/marsbridgenetworkDylibInfo\u003c/s\u003e\u003cu\u003e61ba4367-9565-4c8a-bf75-596c289f070c\u003c/u\u003e\u003c/i\u003e\u003ci\u003e\u003cs\u003e/private/var/containers/Bundle/Application/e1a5e018-af2a-4a80-aedc-75c70dce0af6/WeChat.app/Frameworks/matrixreport.framework/matrixreport\u003c/s\u003e\u003cu\u003e61ba4367-9565-4c8a-bf75-596c289f070c\u003c/u\u003e\u003c/i\u003e\u003ci\u003e\u003cs\u003e/private/var/containers/Bundle/Application/e1a5e018-af2a-4a80-aedc-75c70dce0af6/WeChat.app/Frameworks/OpenSSL.framework/OpenSSL\u003c/s\u003e\u003cu\u003e61ba4367-9565-4c8a-bf75-596c289f070c\u003c/u\u003e\u003c/i\u003e\u003ci\u003e\u003cs\u003e/private/var/containers/Bundle/Application/e1a5e018-af2a-4a80-aedc-75c70dce0af6/WeChat.app/Frameworks/ProtobufLite.framework/ProtobufLite\u003c/s\u003e\u003cu\u003e61ba4367-9565-4c8a-bf75-596c289f070c\u003c/u\u003e\u003c/i\u003e\u003c/dylibInfo\u003e\u003c/clientCheckData\u003e",
+		"GUID2": "",
+		"DeviceToken": {
+			"BaseResponse": {
+				"ret": -100,
+				"errMsg": {
+					"str": ""
+				}
+			}
+		}
+	},
+	"DeviceInfoA16": {
+		"DeviceId": null,
+		"DeviceIdStr": "",
+		"DeviceToken": null,
+		"Imei": "",
+		"AndriodId": "",
+		"PhoneSerial": "",
+		"WidevineDeviceID": "",
+		"WidevineProvisionID": "",
+		"AndriodFsId": "",
+		"AndriodBssId": "",
+		"AndriodSsId": "",
+		"WLanAddress": "",
+		"PackageSign": "",
+		"Androidversion": "",
+		"RadioVersion": "",
+		"Manufacturer": "",
+		"BuildID": "",
+		"BuildFP": "",
+		"BuildBoard": "bullhead",
+		"PhoneModel": "",
+		"Hardware": "",
+		"Features": "",
+		"WifiName": "",
+		"WifiFullName": "",
+		"KernelReleaseNumber": "",
+		"Arch": "",
+		"SfMD5": "",
+		"SfArmMD5": "",
+		"SfArm64MD5": "",
+		"SbMD5": ""
+	},
+	"BalanceVersion": 1589560770,
+	"WifiInfo": {
+		"Name": "KBlziIZOq",
+		"WifiBssID": "da-4f-13-f3-49-db"
+	},
+	"MMInfo": {
+		"ShortHost": "szshort.weixin.qq.com",
+		"ShortURL": "/mmtls/37a15db4",
+		"ShortPskList": [
+			{
+				"Type": 1,
+				"TicketKLifeTimeHint": 604800,
+				"MacValue": "",
+				"KeyVersion": 72,
+				"Iv": "hgxBNiQwQRSJd1dD",
+				"EncryptedTicket": "v0gC8TbCafFmdAwWb3tn4/h4+2yDTU7jZDKVCawfQ92bgzD0Jv2MblPBOcMOrP2ncIha38fyYAEnlwU4KN2aQb1plDfebUw9"
+			},
+			{
+				"Type": 2,
+				"TicketKLifeTimeHint": 2592000,
+				"MacValue": "cN/YQnJvv2PoTH1MuBZXFv7a1lauJ1nOn3x+ARNPPwM=",
+				"KeyVersion": 72,
+				"Iv": "ds0CGC/JVkLQ2IJV",
+				"EncryptedTicket": "enkedCkh3IIyl6ZyY87c47ck1m/58dl61YoXtcYpxgPqr4LBef9ZhVyE5heTLDghIksBSEDMW6v8rd6xcvboUG/slqveRiWYshUeiLLeAkDb435CUyAm6DSWNdYiI3TS09cKZ0lUQjV3"
+			}
+		],
+		"PskAccessKey": "WTJsXLQhEwdo7LymR1fF+omDLIQXC5SK9LuNzax3Jxo=",
+		"LongHost": "szlong.weixin.qq.com",
+		"LONGPort": "8080",
+		"LongHdkfKey": {
+			"EncodeAesKey": "m7dPzCnSyV40o8OhcQ+CAw==",
+			"EncodeNonce": "p/gQPqKjkHOPlRCw",
+			"DecodeAesKey": "iEAbY1p5EHQCxpEx+xW8gw==",
+			"DecodeNonce": "VIUt7LO6WsoBySSH"
+		},
+		"ClientEcdhKeys": {
+			"PriKey1": {
+				"D": "M/3foQ1B7E/zBsvjHl4goYkGDeda/OBNqgV8F/NDJ24="
+			},
+			"PubKeyBuf1": "BIpShVa/rPFK+bhlKIiNORqgI6IJkk25A6b1/2ryYXB0KyFwUnzZOwXQXxOKMNyrAujPdviZNDj3rLQobyvkIq8=",
+			"PriKey2": {
+				"D": "OPkIJSTE5bCKImNj5jRxi2u+oulQQZt8725Tj1Zh2jg="
+			},
+			"PubKeyBuf2": "BDcTZjdP0a136wBVqYHPAv7Mf94ElL4UTfG7tDpRAS23GMqktKBB0K5i55r40tyHCl7VziDD8Jo6dsj3xZgF9R8="
+		},
+		"Dialer": null,
+		"ProxyInfo": null
+	},
+	"ProxyInfo": null,
+	"Dialer": null,
+	"HybridLogin": false,
+	"LoginRsaVer": 135,
+	"Ticket": ""
+}
